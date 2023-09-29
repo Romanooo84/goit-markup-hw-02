@@ -12,6 +12,10 @@
     color: #2e2f42;
 
 }
+
+.list:hover, .list:focus {
+    color: #404bbf;
+  }
 .web{
     font-size: 18px;
     font-weight: 800;
