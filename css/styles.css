@@ -29,6 +29,7 @@
 }
 
 .adress{
+    list-style: none;
     font-style: normal;
     font-weight: 400;
     color: #434455;
