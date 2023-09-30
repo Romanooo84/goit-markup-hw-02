@@ -119,8 +119,6 @@
 
 .paragraph{
     color:#434455;
-
-
 }
 
 .footer{
@@ -135,5 +133,11 @@
 .footer-paragraph{
     line-height: 1.5;
     color:#F4F4FD;
+    letter-spacing: 0.02em;
+}
+
+.list-paragraph{
+    line-height: 1.5;
+    color:#434455;
     letter-spacing: 0.02em;
 }
