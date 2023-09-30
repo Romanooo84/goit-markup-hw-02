@@ -79,6 +79,15 @@
     letter-spacing: 0.04em;
     color: #ffffff;
 }
+
+.index-button:hoover{
+    background-color:var(--link-color);
+}
+
+.index-button:focus{
+    background-color:var(--link-color);
+}
+
 .button{
    font-weight: 500;
    font-size: 16px;
@@ -92,11 +101,11 @@
 
 .button:hover{
     color:#FFFFFF;
-    background-color:#404BBF;
+    background-color:var(--link-color);
 }
 .button:focus{
     color:#FFFFFF;
-    background-color:#404BBF;
+    background-color:var(--link-color);
 }
 
 .header{
