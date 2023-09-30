@@ -114,6 +114,7 @@
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color:#2e2f42;
 }
 
 .paragraph{
@@ -134,5 +135,10 @@
 .footer-paragraph{
     line-height: 1.5;
     color:#F4F4FD;
+    letter-spacing: 0.02em;
+}
+
+.list-paragraph{
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
