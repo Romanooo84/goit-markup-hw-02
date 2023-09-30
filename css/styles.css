@@ -20,11 +20,11 @@
 }
 
 .list:hover {
-    color:var(link-color);
+    color:var(--link-color);
 }
 
 .list:focus {
-    color:var(link-color);
+    color:var(--link-color);
 }
 .web{
     font-size: 18px;
@@ -55,11 +55,11 @@
     color:#434455;
 }
 .adress:hover{
-    color:var(link-color)
+    color:var(--link-color);
 }
 
 .adress:focus{
-    color:var(link-color)
+    color:var(--link-color);
 }
 
 .button{
