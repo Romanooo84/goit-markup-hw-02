@@ -81,7 +81,7 @@
     cursor: pointer;
 }
 
-.index-button:hoover{
+.index-button:hover{
     background-color:var(--link-color);
 }
 
