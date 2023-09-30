@@ -52,6 +52,26 @@
 .adress:hover{
     color:#404bbf
 }
+
 .adress:focus{
     color:#404bbf
+}
+
+.button{
+   font-weight: 500;
+   size: 16px;
+   line-height: 1.5;
+   letter-spacing: 0.04em;
+   color:#4d5ae5;
+   background-color:#F4F4FD;
+
+}
+
+.button:hover{
+    color:#FFFFFF;
+    background-color:#404BBF;
+}
+.button:focus{
+    color:#FFFFFF;
+    background-color:#404BBF;
 }
